@@ -1,6 +1,6 @@
 # Deathmatch Weapon Menu Plugin
 
-The **Deathmatch Weapon Menu Plugin** is a versatile and user-friendly plugin for Counter-Strike 2 that provides players with an interactive menu for selecting weapons in all modes including Deathmatch mode. The plugin introduces a streamlined menu system for rifles and pistols, offering both a visually clean interface and a logical command flow.
+The **Deathmatch Weapon Menu Plugin** is a plugin for Counter-Strike 2 that provides players with an interactive menu for selecting weapons in all modes including Deathmatch mode. The plugin introduces a menu system for rifles and pistols, offering both a clean interface and a logical command flow.
 
 NOTE: I have developed this plugin as part of a list of other plugins for my CS2 server, this version will be updated later on so other plugin.
 
